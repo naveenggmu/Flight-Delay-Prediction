@@ -2,17 +2,16 @@
 
 This project consists of three modules:
 
-Data Preprocessing ( module 1 )
-Classification ( module 2 )
-Regression ( module 3 )
+1. Data Preprocessing ( module 1 )
+2. Classification ( module 2 )
+3. Regression ( module 3 )
 
 The code has been split into many jupyter Notebooks:
 
-Flight data merge
-Weather data merge
-flight - weather merge ( BEST MERGE FILE ) 
-
-Classification has been done over UNDERSAMPLED, OVERSAMPLED, and NOSAMPLED data. 
-Regression has been done over the OVERSAMPLED DATA ( as it was most suitable ) 
+1. Flight data merge
+2. Weather data merge
+3. flight - weather merge ( BEST MERGE FILE ) 
+4. Classification has been done over UNDERSAMPLED, OVERSAMPLED, and NOSAMPLED data. 
+5. Regression has been done over the OVERSAMPLED DATA ( as it was most suitable ) 
 
 PROJECT REPORT is also attached 
