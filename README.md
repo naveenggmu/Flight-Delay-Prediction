@@ -1,4 +1,4 @@
-# Flight-Delay-Prediction
+# Flight-Delay-Prediction Machine learning project
 
 This project consists of three modules:
 
